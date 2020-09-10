@@ -1,0 +1,9 @@
+.logo-container {
+    grid-area: logo;
+    justify-items: center;
+}
+
+.logo {
+    height: 15vmin;
+    pointer-events: none;
+}
